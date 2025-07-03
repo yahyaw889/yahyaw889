@@ -15,9 +15,7 @@ c |c++ | js | php </p>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="35" alt="linkedin logo"  />
       </a>
 
-      <a href="https://www.linkedin.com/in/mustafa-khalid-a50598267/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="35" alt="discord logo"  />
-    </a>
+
       <a href="https://www.linkedin.com/in/yahya-wael-995628257/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="35" alt="youtube logo"  />
     </a>
